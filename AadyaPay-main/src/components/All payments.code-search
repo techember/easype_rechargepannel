@@ -1,0 +1,9 @@
+# Query: All payments
+# ContextLines: 1
+
+1 result - 1 file
+
+AadyaPay-main\src\components\Hero.jsx:
+  31            <h1 className="text-5xl md:text-6xl font-extrabold leading-tight mb-6">
+  32:             All payments in One App: 
+  33              <span className="text-blue-950 drop-shadow-md"> EASYPE</span>
