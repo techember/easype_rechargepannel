@@ -5,22 +5,22 @@ export default function RefundPolicy() {
         <h1 className="text-3xl font-bold mb-6">Refund Policy</h1>
 
         <p>
-          Thank you for choosing <strong>easype </strong>, a premier mobile recharge and utility payments 
+          Thank you for choosing <strong>EasyPe </strong>, a premier mobile recharge and utility payments 
           platform. We are committed to delivering exceptional service and ensuring customer satisfaction.
           This refund policy outlines the terms and conditions regarding refunds for mobile recharge transactions made 
-          through the <strong>easype </strong> platform.
+          through the <strong>EasyPe </strong> platform.
         </p>
 
         <section id="eligibility">
           <h2 className="text-lg font-bold text-gray-700 mt-8 mb-4">Eligibility for Refunds</h2>
-          <p className="mt-4">1.1 easype  will provide refunds only in the following case:</p>
+          <p className="mt-4">1.1 EasyPe  will provide refunds only in the following case:</p>
           <p className="mt-2"> a) If a mobile recharge, utility ment, or other transaction fails due to technical issues or errors on our platform.</p>
           <p className="mt-2">1.2 Refund requests for failed transactions must be reported by the user within 48 hours from the date of the failed transaction.</p>
         </section>
 
         <section id="request">
           <h2 className="text-lg font-bold text-gray-700 mt-8 mb-4">Refund Request Process</h2>
-          <p className="mb-4">2.1 To request a refund for a failed transaction, the user must contact <strong>easype  </strong> 
+          <p className="mb-4">2.1 To request a refund for a failed transaction, the user must contact <strong>EasyPe  </strong> 
             customer support within 48 hours from the date of the failed transaction.
           </p>
           <p className="mb-2">2.2 The refund request must include the following details:</p>
@@ -37,28 +37,28 @@ export default function RefundPolicy() {
 
         <section id="processing">
           <h2 className="text-lg font-bold text-gray-700 mt-8 mb-4">Refund Processing</h2>
-          <p className="mb-4">3.1 easype  will review the refund request and the details provided by the user within 7 working days of receiving it.</p>
-          <p className="mb-4">3.2 If the refund request is approved, the refund amount will be credited to the user’s easype  wallet within 3-5 working days.</p>
-          <p className="mb-4">3.3 The refunded amount can be used for future recharges or other transactions on the easype  platform.</p>
+          <p className="mb-4">3.1 EasyPe  will review the refund request and the details provided by the user within 7 working days of receiving it.</p>
+          <p className="mb-4">3.2 If the refund request is approved, the refund amount will be credited to the user’s EasyPe  wallet within 3-5 working days.</p>
+          <p className="mb-4">3.3 The refunded amount can be used for future recharges or other transactions on the EasyPe  platform.</p>
         </section>
 
         <section id="exceptions">
           <h2 className="text-lg font-bold text-gray-700 mt-8 mb-4">Refund Exceptions</h2>
-          <p className="mb-4">4.1 easype  will not provide refunds for transactions that fail due to errors in user inputs, including incorrect mobile numbers or other user-related errors.</p>
-          <p className="mb-4">4.2 easype  will not entertain refund requests made after the specified 48 hours timeframe for failed transactions.</p>
-          <p className="mb-4">4.3 The customer is not allowed to withdraw the amount added to the easype  wallet. The same can only be utilized for Utility payments and Recharges on the Platform.</p>
+          <p className="mb-4">4.1 EasyPe  will not provide refunds for transactions that fail due to errors in user inputs, including incorrect mobile numbers or other user-related errors.</p>
+          <p className="mb-4">4.2 EasyPe  will not entertain refund requests made after the specified 48 hours timeframe for failed transactions.</p>
+          <p className="mb-4">4.3 The customer is not allowed to withdraw the amount added to the EasyPe  wallet. The same can only be utilized for Utility payments and Recharges on the Platform.</p>
         </section>
 
         <section id="changes">
           <h2 className="text-lg font-bold text-gray-700 mt-8 mb-4">Changes to the Refund Policy</h2>
-          <p className="mb-4">5.1 easype  reserves the right to modify or update this refund policy at any time. Any changes to the policy will be effective immediately upon posting on our website.</p>
+          <p className="mb-4">5.1 EasyPe  reserves the right to modify or update this refund policy at any time. Any changes to the policy will be effective immediately upon posting on our website.</p>
           <p className="mb-4">5.2 Users are encouraged to review this refund policy periodically to stay informed about our refund practices.</p>
         </section>
 
         <p>
           If you have any questions or concerns regarding our refund policy, please contact our customer support team at{" "}
-          <a href="mailto:easype@gmail.com" className="text-blue-600 hover:underline">
-            easype@gmail.com
+          <a href="mailto:EasyPe@gmail.com" className="text-blue-600 hover:underline">
+            EasyPe@gmail.com
           </a>.
         </p>
       </main>

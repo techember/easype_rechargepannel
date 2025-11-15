@@ -50,17 +50,20 @@ export default function Contact() {
             {
               icon: MapPin,
               title: "Address",
-              desc: "F-2 sangam vihar New Delhi 110080",
+              desc: `Jaigoram technologies pvtltd
+              khataNo-107. PlotNo-909 Houseno-37 G.b 
+              at/po-damudigoda via bijatala Ps-rairangpur Dist-mayurbhanj
+              pin- 7570448 odisha`        
             },
             {
               icon: Mail,
               title: "Email",
-              desc: "easype@gmail.com",
+              desc: "easypeservice@gmail.com",
             },
             {
               icon: Phone,
               title: "Phone",
-              desc: "+91 95995 58707",
+              desc: "+91 7684032111 ",
             },
           ].map((item, idx) => {
             const Icon = item.icon;

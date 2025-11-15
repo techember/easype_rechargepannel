@@ -54,7 +54,7 @@ export default function Footer() {
               </div>
               <div className="flex items-center justify-center md:justify-start space-x-2">
                 <Mail className="w-5 h-5 text-[#F7931E]" />
-                <span>easype@gmail.com</span>
+                <span>EasyPe@gmail.com</span>
               </div>
               <div className="flex items-center justify-center md:justify-start space-x-2">
                 <Phone className="w-5 h-5 text-[#F7931E]" />

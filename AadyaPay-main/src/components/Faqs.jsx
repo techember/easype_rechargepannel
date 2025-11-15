@@ -3,29 +3,29 @@ import { useState } from "react";
 
 const faqs = [
   {
-    question: "What is easype ?",
+    question: "What is EasyPe ?",
     answer:
-      "easype  is a modern digital ment app that allows you to recharge,  bills, book travel, and access city services — all in one secure platform.",
+      "EasyPe  is a modern digital ment app that allows you to recharge,  book travel— all in one secure platform.",
   },
   {
-    question: "Is easype  safe to use?",
+    question: "Is EasyPe  safe to use?",
     answer:
-      "Absolutely! easype  uses bank-grade encryption and secure ment gateways to ensure your transactions and data remain safe.",
+      "Absolutely! EasyPe  uses bank-grade encryption and secure ment gateways to ensure your transactions and data remain safe.",
   },
   {
     question: "Do I get rewards on payments?",
     answer:
-      "Yes! easype  offers cashback, rewards, and exclusive discounts on recharges, bill payments, bookings, and more.",
+      "Yes! EasyPe  offers cashback, rewards, and exclusive discounts on recharge,bookings, and more.",
   },
   {
     question: "How do I get started?",
     answer:
-      "Simply download the easype  app, sign up with your mobile number, and start using all services instantly.",
+      "Simply download the EasyPe  app, sign up with your mobile number, and start using all services instantly.",
   },
   {
-    question: "Does easype  support all operators?",
+    question: "Does EasyPe  support all operators?",
     answer:
-      "Yes, easype  supports all major mobile operators, DTH providers, utility billers registered under BBPS, and city services.",
+      "Yes, EasyPe  supports all major mobile operators, DTH providers.",
   },
 ];
 
@@ -45,7 +45,7 @@ export default function Faqs() {
             Frequently Asked Questions
           </h2>
           <p className="text-gray-700 text-lg">
-            Quick answers to help you get the most out of easype .
+            Quick answers to help you get the most out of EasyPe .
           </p>
         </div>
 

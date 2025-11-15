@@ -30,10 +30,10 @@ export default function Hero() {
         >
           <h1 className="text-5xl md:text-6xl font-extrabold leading-tight mb-6">
             All Payments in One App:{" "}
-            <span className="text-green-800 drop-shadow-md">EASYPE</span>
+            <span className="text-green-800 drop-shadow-md">EasyPe</span>
           </h1>
           <p className="text-lg text-gray-800 mb-6 max-w-lg mx-auto md:mx-0">
-            Recharge, book, and pay bills instantly with India’s most convenient & secure payment app.
+            Recharge, book, with India’s most convenient & secure payment app.
           </p>
           <div className="space-x-4">
             <button className="px-6 py-3 rounded-full bg-green-700 text-white font-semibold shadow-lg hover:bg-green-800 transition duration-300">

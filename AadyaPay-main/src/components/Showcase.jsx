@@ -14,7 +14,7 @@ export default function Showcase() {
           viewport={{ once: true }}
           transition={{ duration: 0.8 }}
         >
-          <img src="/images/phone.png" alt="easype App" className="w-[280px] md:w-[340px] lg:w-[380px] rounded-3xl shadow-2xl"/>
+          <img src="/images/phone.png" alt="EasyPe App" className="w-[280px] md:w-[340px] lg:w-[380px] rounded-3xl shadow-2xl"/>
         </motion.div>
 
         {/* Right: Text */}
@@ -29,7 +29,7 @@ export default function Showcase() {
             Everything You Need in One App
           </h2>
           <p className="text-gray-600 mb-6 text-lg">
-            From mobile recharge, DTH, BBPS bill payments, travel bookings, to city service providers — easype  is your
+            From mobile recharge, DTH, travel booking — EasyPe  is your
             all-in-one solution for seamless and secure digital payments.
           </p>
           <Link

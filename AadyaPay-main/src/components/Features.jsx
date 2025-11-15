@@ -11,7 +11,7 @@ export default function Features() {
   return (
     <section className="py-20 bg-white">
       <div className="max-w-7xl mx-auto px-6 text-center">
-        <h2 className="text-4xl font-extrabold mb-12 text-gray-900">Why Choose easype ?</h2>
+        <h2 className="text-4xl font-extrabold mb-12 text-gray-900">Why Choose EasyPe ?</h2>
 
         <div className="grid gap-8 sm:grid-cols-2 md:grid-cols-4">
           {features.map((f, idx) => (

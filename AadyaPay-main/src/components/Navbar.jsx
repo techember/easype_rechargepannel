@@ -32,11 +32,12 @@ export default function Navbar() {
         >
           <img
             src="/easype.jpg"
+            
             alt="easype logo"
             className="h-12 w-12 object-cover rounded-full border-2 border-yellow-400"
           />
           <h1 className="text-2xl font-extrabold text-yellow-300 tracking-wide drop-shadow-md">
-            EASYPE
+            EasyPe
           </h1>
         </div>
 

@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# easype
+# EasyPe
 =======
 # React + Vite
 

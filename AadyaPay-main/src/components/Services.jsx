@@ -20,11 +20,7 @@ export default function Services() {
             title="DTH Recharge"
             description="Instant DTH recharges with flexible plans and offers."
           />
-          <ServiceCard
-            Icon={CreditCard}
-            title="BBPS Bill payments"
-            description=" electricity, water, gas, and broadband bills easily."
-          />
+         
           <ServiceCard
             Icon={Plane}
             title="Travel Booking"
