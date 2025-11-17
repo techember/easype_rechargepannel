@@ -18,7 +18,7 @@ export default function Footer() {
               <span className="text-[#009961]">PE</span> - Recharge App
             </h2>
             <p className="font-medium">
-              Recharge mobiles, DTH, pay bills, book travel, and access services — all from one secure and easy app.
+              Recharge mobiles, DTH, book travel, and access services — all from one secure and easy app.
             </p>
           </div>
 
