@@ -1,4 +1,4 @@
-import { CreditCard, Plane, Smartphone, Tv, Wrench } from "lucide-react";
+import { HandHeart, Plane, Smartphone, Tv, Wrench } from "lucide-react";
 import ServiceCard from "./ServiceCard";
 
 export default function Services() {
@@ -9,7 +9,7 @@ export default function Services() {
           Our Services
         </h2>
 
-        <div className="grid gap-8 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5">
+        <div className="grid gap-8 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 justify-items-center">
           <ServiceCard
             Icon={Smartphone}
             title="Mobile Recharge"
@@ -20,14 +20,14 @@ export default function Services() {
             title="DTH Recharge"
             description="Instant DTH recharges with flexible plans and offers."
           />
-         
+
           <ServiceCard
             Icon={Plane}
             title="Travel Booking"
             description="Book flights, buses, and hotels at the best prices."
           />
           <ServiceCard
-            Icon={Wrench}
+            Icon={HandHeart}
             title="Insurance"
             description="You can buy bike, car, health, life insurance."
           />
