@@ -28,8 +28,8 @@ export default function Services() {
           />
           <ServiceCard
             Icon={Wrench}
-            title="City Service Provider"
-            description="Book local experts like barbers, electricians, plumbers, AC repair professionals and more."
+            title="Insurance"
+            description="You can buy bike, car, health, life insurance."
           />
         </div>
       </div>
